@@ -1,0 +1,22 @@
+.project-top-div{
+    background: linear-gradient(180deg,#cc2b5e,#753a88);
+    height: 150px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.projectimg{
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.location{
+    border: 6px;
+    border-style:double;
+    border-radius: 30px;
+}
+
+.loc-img{
+    border-radius: 15px;
+}

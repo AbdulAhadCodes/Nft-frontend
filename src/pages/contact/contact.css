@@ -1,0 +1,30 @@
+.fa-phone{
+    font-size: 45px;
+    
+}
+
+.fa-envelope{
+    font-size: 45px;
+}
+
+.fa-map-marker{
+    font-size: 45px;
+}
+
+.form-control1{
+    border-radius: 20px;
+    width: 635px;
+    height: 40px;
+}
+
+.form-control{
+    border-radius: 20px;
+}
+
+.msg{
+    height: 200px;
+}
+
+*{
+    color:white;
+}

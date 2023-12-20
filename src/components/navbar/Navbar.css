@@ -1,0 +1,39 @@
+.logo{
+    height: 70px;
+    width: 70px
+}
+
+.navbar-nav{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.navbar-nav li{
+    margin-right: 12px;
+}
+
+.btn-navbar{
+    padding: 12px;
+    background-color: #2a56ff;
+    color: white;
+    border-radius: 50px;
+}
+
+.btn-navbar:hover{
+    background-color: white;
+    color: #5877f0;
+    font-weight: bold;
+}
+
+.navbar-toggler-icon{
+    
+    background-color: white;
+
+}
+
+.navbar-toggler{
+    
+    background-color: white;
+
+}
